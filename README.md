@@ -3,7 +3,7 @@
 
 Soy estudiante universitario interesado en el mundo de la programación y la tecnología. Actualmente estoy aprendiendo y desarrollando proyectos en Python dentro de la materia de Programación Orientada a Objetos, donde he podido comprender conceptos importantes como clases, objetos, herencia y abstracción.
 
-Intereses*
+*Intereses*
 
 Me gusta aprender sobre desarrollo de software y mejorar constantemente mis habilidades en programación. También disfruto mucho los videojuegos, ya que además de ser una forma de entretenimiento, me generan interés por cómo funcionan los programas y la lógica detrás de su desarrollo.
 
