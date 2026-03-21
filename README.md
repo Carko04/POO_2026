@@ -1,16 +1,41 @@
-# Programacion Orientada a Objetos ite2026
-## Calleros Rivera Kevin Obed
+# Programación Orientada a Objetos (POO)
 
-Soy estudiante universitario interesado en el mundo de la programación y la tecnología. Actualmente estoy aprendiendo y desarrollando proyectos en Python dentro de la materia de Programación Orientada a Objetos, donde he podido comprender conceptos importantes como clases, objetos, herencia y abstracción.
+## Descripción
 
-### Intereses
+Este proyecto forma parte de la materia **Programación Orientada a Objetos**, donde se aplican los conceptos fundamentales del paradigma orientado a objetos para desarrollar programas más organizados, reutilizables y fáciles de mantener.
 
-Me gusta aprender sobre desarrollo de software y mejorar constantemente mis habilidades en programación. También disfruto mucho los videojuegos, ya que además de ser una forma de entretenimiento, me generan interés por cómo funcionan los programas y la lógica detrás de su desarrollo.
+El objetivo es comprender cómo modelar problemas del mundo real utilizando **clases, objetos y relaciones entre ellos**.
 
-### Interés en la materia
+## Objetivos
 
-La materia de Programación Orientada a Objetos me ha permitido entender mejor cómo organizar y estructurar el código de forma más eficiente. A través de distintos ejercicios y proyectos he podido practicar la creación de clases, métodos y la reutilización de código.
+* Comprender el concepto de **clases y objetos**.
+* Aplicar los principios de **encapsulamiento, herencia y polimorfismo**.
+* Desarrollar programas estructurados utilizando el paradigma orientado a objetos.
+* Practicar la reutilización y organización del código.
 
-### Objetivo
+## Conceptos utilizados
 
-Mi objetivo es seguir mejorando mis habilidades en programación, aprender nuevas tecnologías y adquirir más experiencia desarrollando proyectos que me ayuden a crecer tanto académica como profesionalmente.
+En esta actividad se aplican los siguientes conceptos de POO:
+
+* **Clase:** plantilla que define atributos y métodos.
+* **Objeto:** instancia de una clase.
+* **Encapsulamiento:** protección y control del acceso a los datos.
+* **Herencia:** permite crear clases basadas en otras clases.
+* **Polimorfismo:** diferentes clases pueden implementar métodos con el mismo nombre.
+
+## Lenguaje utilizado
+
+El proyecto fue desarrollado utilizando:
+
+* **Python**
+
+## Estructura del proyecto
+
+El programa está organizado en diferentes archivos donde se definen las clases y su funcionamiento.
+Cada clase representa una entidad del sistema y contiene atributos y métodos que describen su comportamiento.
+
+## Conclusión
+
+La Programación Orientada a Objetos permite desarrollar software más **modular, reutilizable y fácil de mantener**.
+Mediante el uso de clases y objetos es posible representar de manera clara distintos componentes de un sistema y sus interacciones.
+
