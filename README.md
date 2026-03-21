@@ -1,16 +1,83 @@
-# Programacion Orientada a Objetos ite2026
-## Calleros Rivera Kevin Obed
+# Programación Orientada a Objetos (POO)
 
-Soy estudiante universitario interesado en el mundo de la programación y la tecnología. Actualmente estoy aprendiendo y desarrollando proyectos en Python dentro de la materia de Programación Orientada a Objetos, donde he podido comprender conceptos importantes como clases, objetos, herencia y abstracción.
+## 📌 Información del estudiante
 
-### Intereses
+**Nombre:** Kevin Obed Calleros Rivera
+**Carrera:** Ingeniería en Sistemas Computacionales
+**Grupo:** 2SS
 
-Me gusta aprender sobre desarrollo de software y mejorar constantemente mis habilidades en programación. También disfruto mucho los videojuegos, ya que además de ser una forma de entretenimiento, me generan interés por cómo funcionan los programas y la lógica detrás de su desarrollo.
+---
 
-### Interés en la materia
+## 📖 Descripción
 
-La materia de Programación Orientada a Objetos me ha permitido entender mejor cómo organizar y estructurar el código de forma más eficiente. A través de distintos ejercicios y proyectos he podido practicar la creación de clases, métodos y la reutilización de código.
+Este repositorio contiene actividades y ejercicios desarrollados durante la clase de **Programación Orientada a Objetos (POO)**.
+El objetivo es aplicar los principios del paradigma orientado a objetos para desarrollar programas estructurados, reutilizables y fáciles de mantener.
 
-### Objetivo
+En estas actividades se modelan diferentes problemas utilizando **clases y objetos**, representando entidades del mundo real mediante código.
 
-Mi objetivo es seguir mejorando mis habilidades en programación, aprender nuevas tecnologías y adquirir más experiencia desarrollando proyectos que me ayuden a crecer tanto académica como profesionalmente.
+---
+
+## 🎯 Objetivos de la actividad
+
+* Comprender el funcionamiento del **paradigma orientado a objetos**.
+* Aplicar conceptos como **clases, objetos, atributos y métodos**.
+* Implementar **herencia, encapsulamiento y polimorfismo**.
+* Desarrollar programas más organizados y escalables.
+
+---
+
+## 🧠 Conceptos de Programación Orientada a Objetos
+
+**Clase**
+Plantilla o estructura que define las características y comportamientos de un objeto.
+
+**Objeto**
+Instancia de una clase que contiene datos y puede ejecutar métodos.
+
+**Encapsulamiento**
+Permite proteger los datos de una clase y controlar su acceso.
+
+**Herencia**
+Permite que una clase herede atributos y métodos de otra clase.
+
+**Polimorfismo**
+Permite que diferentes clases utilicen métodos con el mismo nombre pero con comportamientos distintos.
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+* **Python**
+* Programación Orientada a Objetos
+
+---
+
+## 📂 Estructura del proyecto
+
+El proyecto está organizado en diferentes archivos donde se definen las clases y su funcionamiento.
+Cada archivo contiene partes del programa que representan diferentes elementos del sistema.
+
+Ejemplo de estructura:
+
+```
+/proyecto-poo
+│
+├── main.py
+├── clases/
+│   ├── clase_base.py
+│   ├── subclase1.py
+│   └── subclase2.py
+└── README.md
+```
+
+---
+
+## 📚 Conclusión
+
+La **Programación Orientada a Objetos** permite organizar mejor el código mediante el uso de clases y objetos, facilitando la reutilización y mantenimiento del software.
+Estos ejercicios ayudan a comprender cómo aplicar este paradigma en el desarrollo de programas.
+
+---
+
+Mediante el uso de clases y objetos es posible representar de manera clara distintos componentes de un sistema y sus interacciones.
+
