@@ -1,25 +1,24 @@
-Validación y Excepciones
-📌 Descripción
+# Validación y Excepciones
 
-Conjunto de programas en Python enfocados en:
+## Conjunto de programas en Python enfocados en:
 
-Validación de entrada de datos
-Manejo de errores con try/except
-Uso de excepciones personalizadas
-Operaciones básicas y lectura de archivos
+### Validación de entrada de datos
+### Manejo de errores con try/except
+### Uso de excepciones personalizadas
+### Operaciones básicas y lectura de archivos
 ⚙️ Contenido
 🔢 Calculadora básica
-Operaciones (suma, resta, multiplicación y división) con validación.
+### Operaciones (suma, resta, multiplicación y división) con validación.
 🔁 Validación de entrada
-Función pedir_entero() para evitar errores al ingresar datos.
+### Función pedir_entero() para evitar errores al ingresar datos.
 ⚠️ Excepciones personalizadas
-EdadInvalidaError
-SaldoInsuficienteError
-CalificacionFueraDeRangoError
+### EdadInvalidaError
+### SaldoInsuficienteError
+### CalificacionFueraDeRangoError
 📄 Manejo de archivos
-Lectura de archivos .txt con control de errores.
+### Lectura de archivos .txt con control de errores.
 🎓 Registro de calificaciones
-Validación de rango (0–100) y manejo de errores.
+### Validación de rango (0–100) y manejo de errores.
 🧠 Conceptos aplicados
 try, except, finally
 raise
